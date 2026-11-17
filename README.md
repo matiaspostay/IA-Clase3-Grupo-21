@@ -1,20 +1,26 @@
-IA en acción — Clase 3 (Módulo 2, Deep Learning)
-Grupo 21
+# IA en acción — Clase 3 (Módulo 2, Deep Learning)
 
-Integrantes:
+**Grupo 21**
 
-Eugenia Casas
+**Integrantes:**
+- Casas, Eugenia
+- Amuchastegui, Ignacio
+- Postay, Matías
 
-Ignacio Amuchastegui
+## Contenido
 
-Matías Postay
+- `notebooks/Grupo21_Clase3.ipynb`: notebook de Colab con las tres demos
+  1. MNIST Canvas: red densa 784→128→64→10 entrenada sobre MNIST
+  2. YOLOv8n: detección de objetos
+  3. Chat con LLM local (Ollama)
+- `img/`: capturas y dígitos usados en el notebook
 
-Contenido:
+## Cómo ejecutar
 
-notebooks/Grupo21_Clase3.ipynb: notebook de Colab con las 3 demos
-MNIST Canvas (red densa 784→128→64→10)
-YOLO v8n: detección de objetos
-Chat con LLM local (Ollama)
+1. Abrir el notebook en Colab desde el enlace de abajo.
+2. Ejecutar **Runtime → Run all**.
+3. La celda de Ollama solo funciona en la PC donde está instalado Ollama, no en Colab.
 
-Abrir en Colab:
-https://colab.research.google.com/github/matiaspostay/IA-Clase3-Grupo21/blob/main/notebooks/Grupo21_Clase3.ipynb
+## Abrir en Colab
+
+https://colab.research.google.com/github/matiaspostay/IA-Clase3-Grupo-21/blob/main/notebooks/Grupo21_Clase3.ipynb
