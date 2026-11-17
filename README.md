@@ -3,9 +3,11 @@ Grupo 21
 
 Integrantes:
 
-Amuchastegui, Ignacio
-Postay, Matías
-Casas, Eugenia
+Eugenia Casas
+
+Ignacio Amuchastegui
+
+Matías Postay
 
 Contenido:
 
